@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "airbnbecommendations",
   "version": "",
   "description": "",
   "author": "",
@@ -11,10 +11,13 @@
     "server": "nodemon server/index.js"
   },
   "dependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7"
   },
   "devDependencies": {
+    "artillery": "^1.6.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "newrelic": "^6.8.0"
   }
 }
