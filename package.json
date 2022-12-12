@@ -17,7 +17,7 @@
   "devDependencies": {
     "artillery": "^1.6.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "newrelic": "^6.8.0"
   }
 }
